@@ -11,7 +11,7 @@ import {
   TOGGLE_CART
 } from "./actions";
 
-export const reducer = (state={
+ const reducer = (state={
   products: [],
   cart: [],
   cartOpen: false,
@@ -91,3 +91,4 @@ export const reducer = (state={
   }
 };
 
+export default reducer;
