@@ -1,4 +1,4 @@
-# Redux-Shop
+# E-Shop
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
@@ -46,8 +46,8 @@ For a clearer video, please click the following link.<br />
 
 
 ## Websites
-[Repository](https://github.com/flowingcityloy/Google-Book-Search-Engine)<br />
-[Live site](https://google-book-search-engine-ll.herokuapp.com/)
+[Repository](https://github.com/flowingcityloy/E-Shop)<br />
+[Live site](https://redux-shop-ll.herokuapp.com/)
 
 
 
@@ -60,7 +60,7 @@ For a clearer video, please click the following link.<br />
 ## Questions
   
 If you have any questions or issues please create issue here:<br/>
-[Issues](https://github.com/flowingcityloy/Google-Book-Search-Engine/issues) 
+[Issues](https://github.com/flowingcityloy/E-Shop/issues) 
 
 
 Thank you!
